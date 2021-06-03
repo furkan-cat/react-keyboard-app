@@ -3,3 +3,17 @@
   height: 55px;
   text-align: center;
 }
+
+.smallbtn {
+  width: 75px;
+}
+.mediumbtn {
+  width: 100px;
+}
+.bigbtn {
+  width: 135px;
+}
+
+.space {
+  width: 425px;
+}
