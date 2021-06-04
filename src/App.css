@@ -1,19 +1,38 @@
-.helal {
-  width: 55px;
-  height: 55px;
-  text-align: center;
+.buttons {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  width: 50px;
+  height: 40px;
 }
-
 .smallbtn {
   width: 75px;
 }
 .mediumbtn {
   width: 100px;
 }
-.bigbtn {
-  width: 135px;
+.enter {
+  width: 119px;
 }
-
 .space {
-  width: 425px;
+  width: 300px;
+}
+.left-shift {
+  width: 134px;
+}
+.capslock {
+  width: 90px;
+}
+.upenter {
+  width: 80px;
+}
+.backspace {
+  width: 105px;
+}
+.light {
+  background-color: #636060;
+}
+.dark {
+  background-color: #363535;
 }
