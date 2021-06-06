@@ -6,6 +6,11 @@
   width: 50px;
   height: 40px;
 }
+.buttons:hover {
+  background-color: blue;
+  opacity: 0.8;
+  cursor: pointer;
+}
 .smallbtn {
   width: 75px;
 }
@@ -35,4 +40,7 @@
 }
 .dark {
   background-color: #363535;
+}
+.esc{
+  background: orangered;
 }
