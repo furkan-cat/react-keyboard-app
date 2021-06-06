@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Type to see user feedback. It's a basic virtual keyboard. I'll add some integrate some updates after.  
+Type to see user feedback. It's a basic virtual keyboard. After a while later I'm gonna integrate some updates. One issue that i can not handle with shift buttons. For now they are not working together. But fur now.. Currently I'm working on it..   
 
 [Project-Demo](https://react-virtual-keyboard.netlify.app/)
 
